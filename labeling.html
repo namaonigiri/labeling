@@ -19,7 +19,7 @@
 <body>
     <div id="mapid"></div>
     <script>
-        // 〒を
+        // 〒を消去する関数
         function removePostalCode(locationName){
             var postalCodePattern = /\d{3}-\d{4}, /;
             return locationName.replace(postalCodePattern, '').trim();

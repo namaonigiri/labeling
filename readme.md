@@ -1,3 +1,3 @@
 # 昆虫標本ラベル作成補助ツール
-![demo](assets/label_demo.mp4)  
+![demo](assets/label_demo.gif)  
 昆虫関連の友人のラベル作成時に地理院地図から直接ラベルを作りたいという要望に応えたアプリです。
